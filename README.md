@@ -1,5 +1,4 @@
-# Atividade-5
-Atividade 5 da matéria de programação de scripts \
+# Gerador e contador de numeros
 Consiste num site simples em que numeros de 1 a 9 são gerados aleatoriamente e pode-se clicar para aumentar contagem deles e resetar a contagem de todos. \
 [heroku](https://dashboard.heroku.com/apps/atividade-5)
 
